@@ -1,6 +1,7 @@
 h1{
  font-style: bold;
  font-size: 40;
+ font-style: initial;
 }
 p{
     font-style: bold;
